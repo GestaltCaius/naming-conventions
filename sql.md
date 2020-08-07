@@ -24,6 +24,6 @@ int OrderID (FK)
 
 # References
 
-* (Database, Table and Column Naming Conventions? [closed])[https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions]
-  * (Réponse 1)[https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions/7724#7724]
-  * (Réponse 2 (plus détaillée, avec des explications; etc.))[https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions/2118567#2118567]
+* [Database, Table and Column Naming Conventions? [closed]](https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions)
+  * [Réponse 1](https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions/7724#7724)
+  * [Réponse 2 (plus détaillée, avec des explications; etc.)](https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions/2118567#2118567)
